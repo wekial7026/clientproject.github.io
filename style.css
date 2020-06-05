@@ -1,0 +1,186 @@
+html {
+  scroll-behavior: smooth;
+}
+div.para {
+  font: 60px times, serif;
+  border: 5px solid black;
+}
+div.background {
+  color
+}
+
+div.bro {
+  margin-right: 70%;
+  margin-top:10px;
+  margin-left:10px;
+  border:5px solid black;
+  border-radius: 30px;
+  border-width: 5px;
+  padding:10px 0px 10px 10px;
+
+
+}
+p.fs{
+  font: 60px Times, serif;
+
+}
+div.mg2{
+  position:fixed;
+
+  left:1500px;
+
+
+}
+div.ig{
+
+  margin:auto;
+  width:50%;
+  radius:50px;
+  left: 100px
+}
+div.j3{
+  border-radius: 30px;
+  margin: 0px 500px 0px 500px;
+  font-size: 60px;
+  border: 5px solid black
+}
+div.j4 {
+  background-color:black;
+}
+p.big{
+  font-size: 30px;
+  text-align: center;
+}
+.grid-container {
+  display: grid;
+  margin:100px;
+  grid: auto / auto auto auto ;
+  grid-gap: 100px 50px;
+  background-color:none;
+  border:5px solid black;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px 20px;
+  font-size: 30px;
+  width:auto;
+  height:;
+}
+.parallax1 {
+  /* The image used */
+  background-image: url("Images/bathroombackground.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax2 {
+  /* The image used */
+  background-image: url("Images/kitchenbackground.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax3 {
+  /* The image used */
+  background-image: url("Images/livingroombackground.jpg");
+  background-blend-mode: luminosity;
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.parallax4 {
+  /* The image used */
+  background-image: url("Images/trendybackground.jpg");
+  background-blend-mode: luminosity;
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+nav.nbc{
+  background-color: black;
+  text-decoration-color: white;
+
+}
+img.im{
+  width:200px;
+  height:200px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: overline ;
+  font-size: 22px;
+  color: black;
+}
+a.ex:hover, a.ex:active {
+  color:white
+}
+button:hover, a:hover {
+  opacity: 0.7;
+}
+img {
+  transition: .5s;
+}
+img.bruh:hover{
+  width:400px;
+  height:400px;
+}
+img.tp:hover{
+  height:350px;
+  width:500px;
+}
+img
